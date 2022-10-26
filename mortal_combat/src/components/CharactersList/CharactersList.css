@@ -1,0 +1,20 @@
+.charactersContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10% 0;
+}
+
+.selectFighterText {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: beige;
+    margin-bottom: 10px;
+}
+
+.charactersList {
+    display: flex;
+    flex-wrap: wrap;
+    width: 810px;
+}
